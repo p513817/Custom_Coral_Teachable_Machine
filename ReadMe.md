@@ -1,20 +1,25 @@
-# Modify Source Project
+# Coral Teachable Machine With Double Camera
+Add some new features to Google Coral Teachable Machine Project
+
 Item | Description
 -----|-----
-Date |109/12/10
+Date |109/12
 Author| 張嘉鈞 Chia-Chun, Chang
 
 ---
 
 ![image](cover.png)
 
-# 套件需求
-```
-1. Opencv
-2. Tkinter
-3. Pillow
-4. argparse
-```
+
+---
+
+# 客製化專案
+這個客製化案例功能比較複雜一些，主要是希望
+1. 保留 Coral Teachable Machine 的互動性
+2. 再增設一個攝影機 (共2個)
+3. 可以存檔讀檔 ( 原先的專案沒這功能 )
+4. UI介面
+5. 結合停機坪等功能
 
 # 程式碼
 
