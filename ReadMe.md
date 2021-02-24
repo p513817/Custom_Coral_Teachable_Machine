@@ -8,7 +8,13 @@ Author| 張嘉鈞 Chia-Chun, Chang
 
 ---
 
+# DEMO
+
 ![image](cover.png)
+
+---
+
+[![Modify Embedded Teachable Machine to using two camera and AI model](https://res.cloudinary.com/marcomontalbano/image/upload/v1614136933/video_to_markdown/images/youtube--PbkgB1DkzAQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PbkgB1DkzAQ "Modify Embedded Teachable Machine to using two camera and AI model")
 
 
 ---
