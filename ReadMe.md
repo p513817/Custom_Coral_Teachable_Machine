@@ -1,4 +1,4 @@
-# Coral Teachable Machine With Double Camera
+# Coral Teachable Machine With Two Camera And Model
 Add some new features to Google Coral Teachable Machine Project
 
 Item | Description
